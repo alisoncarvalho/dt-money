@@ -1,20 +1,36 @@
 {
-    "transactions" : [
-        {
-            "id":1,
-            "description": "Desenvolvimento de site",
-            "type":"income",
-            "category":"venda",
-            "price": 12000,
-            "createdAt": "2024-02-16T19:44:21.034Z"
-        },
-        {
-            "id":2,
-            "description": "hamburguer",
-            "type":"outcome",
-            "category":"alimentação",
-            "price": 50,
-            "createdAt": "2024-02-16T19:46:21.034Z"
-        }
-    ]
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Desenvolvimento de site",
+      "type": "income",
+      "category": "venda",
+      "price": 12000,
+      "createdAt": "2024-02-16T19:44:21.034Z"
+    },
+    {
+      "id": 2,
+      "description": "hamburguer",
+      "type": "outcome",
+      "category": "alimentação",
+      "price": 50,
+      "createdAt": "2024-02-16T19:46:21.034Z"
+    },
+    {
+      "id": "3",
+      "description": "Salário",
+      "category": "recebimento",
+      "price": 12000,
+      "type": "income",
+      "createdAt": "2024-02-17T00:11:10.773Z"
+    },
+    {
+      "id": "e8c4",
+      "description": "Salário amor",
+      "category": "recebimento",
+      "price": 6000,
+      "type": "income",
+      "createdAt": "2024-02-17T00:34:38.553Z"
+    }
+  ]
 }
