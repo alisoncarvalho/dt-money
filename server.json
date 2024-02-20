@@ -31,6 +31,14 @@
       "price": 6000,
       "type": "income",
       "createdAt": "2024-02-17T00:34:38.553Z"
+    },
+    {
+      "id": "dde2",
+      "description": "Maceio",
+      "category": "viagem",
+      "price": 6700,
+      "type": "outcome",
+      "createdAt": "2024-02-17T00:46:14.300Z"
     }
   ]
 }
